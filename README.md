@@ -7,5 +7,5 @@ El patron Builder es util cuando se encuentra compuesto por objetos que deben se
 El patron Factory Method permite reutilizar los metodos que crean los objetos haciendo un metodo generalizado en lugar de usar el new, por ello este patron podria llegar a ser util para la implementacion, ademas ayuda a simplificar el proceso complejo de contruccion. 
 ## Abstract Factory
 El patron Abstract Factory permite crear distintos objetos que tienen similitudes entre si basandose en las caracteristicas que estos objetos comparten, por esto seria util ya que las computadoras comparten varios atributos.
-## El patron seleccionado es el Builder
+## El patron seleccionado es el Builder, ya que simplifica el proceso de construcción, y además permite crear varios objetos de la misma clase, ya que las computadoras poseen los mismos atributos.
 
