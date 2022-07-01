@@ -8,4 +8,5 @@ El patron Factory Method permite reutilizar los metodos que crean los objetos ha
 ## Abstract Factory
 El patron Abstract Factory permite crear distintos objetos que tienen similitudes entre si basandose en las caracteristicas que estos objetos comparten, por esto seria util ya que las computadoras comparten varios atributos.
 ## El patron seleccionado es el Builder, ya que simplifica el proceso de construcción, y además permite crear varios objetos de la misma clase, ya que las computadoras poseen los mismos atributos.
-
+##diagrama
+![image](https://user-images.githubusercontent.com/93171012/176823146-3eef2622-329b-42e5-a9d9-62797105c164.png)
